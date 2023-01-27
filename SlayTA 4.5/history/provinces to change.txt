@@ -14,4 +14,6 @@ replace cotton
 1657 kyoto
 1751 alexandria
 835 greece
-population boom
+change state and core
+1533
+1481

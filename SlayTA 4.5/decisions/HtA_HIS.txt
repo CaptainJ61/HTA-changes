@@ -322,13 +322,18 @@ political_decisions = {
 			NOT = { has_country_flag = med_islands_claimed }
 		}
 		allow = {
-			SIC = { all_core = { limit = { NOT = { province = 759 province = 760 } } owned_by = THIS } }
-			SRD = { all_core = { owned_by = THIS } }
+			SIC = { all_core = {
+					AND = { 
+						NOT = { province_id = 759 }
+						NOT = { province_id = 760 }
+					}
+				owned_by = THIS } }
+			COR = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			set_country_flag = med_islands_claimed
 			SIC = { all_core = { add_core = HIS } }
-			SRD = { all_core = { add_core = HIS } }
+			COR = { all_core = { add_core = HIS } }
 		}
 		ai_will_do = {
 			factor = 1
