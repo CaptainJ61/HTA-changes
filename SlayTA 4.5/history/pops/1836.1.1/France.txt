@@ -2957,7 +2957,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 1100
+        size = 4100
     }
 
     farmers = {
@@ -3007,7 +3007,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 1100
+        size = 4100
     }
 
     farmers = {
@@ -3303,7 +3303,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 1100
+        size = 7100
     }
 
     farmers = {
@@ -3347,7 +3347,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 1100
+        size = 7100
     }
 
     farmers = {
@@ -3490,7 +3490,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 1100
+        size = 7100
     }
 
     farmers = {
@@ -3558,7 +3558,7 @@
     soldiers = {
         culture = aquitanian
         religion = catholic
-        size = 1100
+        size = 7100
     }
 
     farmers = {

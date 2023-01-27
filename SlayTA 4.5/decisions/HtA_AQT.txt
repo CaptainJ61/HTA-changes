@@ -197,23 +197,26 @@ political_decisions = {
 			add_accepted_culture = north_italian
 		}
 	}
-# Integrate the French
-#	integrate_the_french = {
-#		potential = {
-#			tag = AQT
-#			NOT = { has_country_flag = fra_accepted }
-#		}		
-#		allow = {
-#			year = 1840
-#			owns = 428
-#			owns = 440
-#		}		
-#		effect = {
-#			FRA = { all_core = { add_core = THIS } }
-#			BRT = { all_core = { add_core = THIS } }
-#			add_accepted_culture = french
-#			add_accepted_culture = breton
-#			set_country_flag = fra_accepted
-#		}
-#	}
+
+
+################################################################
+#Captain's super secret decision(dont tell anyone you saw this)#
+
+	integrate_the_french = {
+		potential = {
+			tag = AQT
+			exists = GER
+			NOT = { has_country_flag = fra_accepted }
+		}		
+		allow = {
+			year = 1840
+			owns = 428
+			owns = 440
+		}		
+		effect = {
+			FRA = { all_core = { add_core = THIS } }
+			add_accepted_culture = french
+			set_country_flag = fra_accepted
+		}
+	}
 }
