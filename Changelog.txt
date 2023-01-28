@@ -12,8 +12,6 @@ Change Warsaw, Prague, and Constantinople to 40 liferating instead of 35
 
 Fixed spanish med islands decision
 
-Deleted some empty files
-
 Changed up the borders of manchuria
 
 Replaced 3 wool provinces in anatolia with iron, grain, and dye respectively(so it's not just one big wool fest)
@@ -22,9 +20,11 @@ Give Vietnam it's pops back
 
 Got rid of those bug decisions
 
-	planned changes
+Replace Shogunate core on southern island whose name I cant remember (also gave island to Japan)
 
-Replace Shogunate core on southern island whose name I cant remember
+Remove that steel factory in Japan
+
+	planned changes
 
 Maybe fix Japan's Philipines decision
 
@@ -45,5 +45,3 @@ Give Germany 35 liferating? Might be too much work
 Replace John Cena general with Joe Biden(for the funni)
 
 Give Japan some of it's missing techs at the start
-
-Remove that steel factory in Japan
