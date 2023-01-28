@@ -8,7 +8,9 @@ Replaced shogunate core on dutch treaty port in Japan with a normal Japanese cor
 
 Replaced some Cotton RGO's with Livestock to reduce over supply
 
-Change Warsaw, Prague, and Constantinople to 40 liferating instead of 35
+Changed capital of Bohemia, Netherlands, Poland, Russia, Finland, Norway, and Rome to 40 liferating instead of 35
+
+Added a steel factory in Warsaw
 
 Fixed spanish med islands decision
 
