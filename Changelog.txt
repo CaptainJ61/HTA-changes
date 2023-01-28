@@ -1,0 +1,47 @@
+	changes so far
+
+Gave aquitane more starting soldier pops
+
+Changed north bengal back to a colony
+
+Replaced shogunate core on dutch treaty port in Japan with a normal Japanese core.
+
+Replaced some Cotton RGO's with Livestock to reduce over supply
+
+Change Warsaw, Prague, and Constantinople to 40 liferating instead of 35
+
+Fixed spanish med islands decision
+
+Deleted some empty files
+
+Changed up the borders of manchuria
+
+Replaced 3 wool provinces in anatolia with iron, grain, and dye respectively(so it's not just one big wool fest)
+
+	planned changes
+
+Replace Shogunate core on southern island whose name I cant remember
+
+Maybe fix Japan's Philipines decision
+
+Give Vietnam it's pops back
+
+Should remove strait connecting Japan to easternmost Siberia
+
+Give Aquitane another stack
+
+Add host decision to revert cotton RGO changes
+
+Figure out how to remove pandemic events
+
+Give Poland cores on Brest
+
+Give 40 liferating to more capitals(Amsterdam, Moscow, ect.)
+
+Give Germany 35 liferating? Might be too much work
+
+Replace John Cena general with Joe Biden(for the funni)
+
+Give Japan some of it's missing techs at the start
+
+Remove that steel factory in Japan
