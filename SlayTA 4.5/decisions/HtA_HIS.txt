@@ -327,13 +327,22 @@ political_decisions = {
 						NOT = { province_id = 759 }
 						NOT = { province_id = 760 }
 					}
-				owned_by = THIS } }
-			COR = { all_core = { owned_by = THIS } }
+				owned_by = THIS 
+				} 
+			}
+			CRS = { all_core = { owned_by = THIS } }
 		}
 		effect = {
 			set_country_flag = med_islands_claimed
-			SIC = { all_core = { add_core = HIS } }
-			COR = { all_core = { add_core = HIS } }
+			SIC = { all_core = {
+					limit = { 
+						NOT = { province_id = 759 }
+						NOT = { province_id = 760 }
+					}
+				add_core = HIS 
+				} 
+			}
+			CRS = { all_core = { add_core = HIS } }
 		}
 		ai_will_do = {
 			factor = 1
