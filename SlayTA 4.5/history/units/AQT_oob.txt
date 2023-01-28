@@ -162,6 +162,61 @@ army = {
 	}
 }
 
+army = {
+	name = "3rd Army"
+	location = 468
+	regiment = {
+		name= "Palace Guards"
+		type = infantry
+		home = 462
+	}
+	regiment = {
+		name= "1. Enfantaria"
+		type = infantry
+		home = 462
+	}
+	regiment = {
+		name= "2. Enfantaria"
+		type = infantry
+		home = 454
+	}
+	regiment = {
+		name= "3. Enfantaria"
+		type = infantry
+		home = 453
+	}
+	regiment = {
+		name= "1. Artilharia"
+		type = hussar
+		home = 458
+	}
+	regiment = {
+		name= "2. Artilharia"
+		type = artillery
+		home = 459
+	}
+	regiment = {
+		name= "1. Cavalaria"
+		type = artillery
+		home = 442
+	}
+	regiment = {
+		name= "2. Cavalaria"
+		type = artillery
+		home = 443
+	}
+	regiment = {
+		name = "1. Enfantaria"
+		type = artillery
+		home = 444
+	}
+	regiment = {
+		name = "2. Enfantaria"
+		type = artillery
+		home = 445
+	}
+}
+
 navy = {
 	name = "Scadrona Europaen"
 	location = 461

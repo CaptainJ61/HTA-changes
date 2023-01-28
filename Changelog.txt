@@ -26,21 +26,19 @@ Replace Shogunate core on southern island whose name I cant remember (also gave 
 
 Remove that steel factory in Japan
 
+Give Aquitane another stack
+
+Give Poland cores on Brest
+
 	planned changes
 
 Maybe fix Japan's Philipines decision
 
 Should remove strait connecting Japan to easternmost Siberia
 
-Give Aquitane another stack
-
 Add host decision to revert cotton RGO changes
 
 Figure out how to remove pandemic events
-
-Give Poland cores on Brest
-
-Give 40 liferating to more capitals(Amsterdam, Moscow, ect.)
 
 Give Germany 35 liferating? Might be too much work
 
