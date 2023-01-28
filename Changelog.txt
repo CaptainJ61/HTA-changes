@@ -18,13 +18,15 @@ Changed up the borders of manchuria
 
 Replaced 3 wool provinces in anatolia with iron, grain, and dye respectively(so it's not just one big wool fest)
 
+Give Vietnam it's pops back
+
+Got rid of those bug decisions
+
 	planned changes
 
 Replace Shogunate core on southern island whose name I cant remember
 
 Maybe fix Japan's Philipines decision
-
-Give Vietnam it's pops back
 
 Should remove strait connecting Japan to easternmost Siberia
 
