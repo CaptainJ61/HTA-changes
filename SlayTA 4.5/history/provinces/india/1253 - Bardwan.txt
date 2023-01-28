@@ -7,4 +7,4 @@ trade_goods = silk
 
 life_rating = 32
 
-
+colonial = 2
