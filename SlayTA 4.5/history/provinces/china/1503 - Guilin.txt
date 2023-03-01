@@ -1,6 +1,6 @@
 owner = GXI
 controller = GXI
 add_core = GXI
-trade_goods = cotton
+trade_goods = tabacco
 life_rating = 35
 
