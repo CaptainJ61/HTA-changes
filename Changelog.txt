@@ -30,13 +30,13 @@ Give Aquitane another stack
 
 Give Poland cores on Brest
 
+Add host decision to revert cotton RGO changes
+
 	planned changes
 
 Maybe fix Japan's Philipines decision
 
 Should remove strait connecting Japan to easternmost Siberia
-
-Add host decision to revert cotton RGO changes
 
 Figure out how to remove pandemic events
 
