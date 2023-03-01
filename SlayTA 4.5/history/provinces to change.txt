@@ -19,6 +19,7 @@ replace cotton
 1563 china
 1503 china
 1227 india
+1237 india
 change state and core
 1533
 1481

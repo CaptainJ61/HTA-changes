@@ -32,6 +32,8 @@ Give Poland cores on Brest
 
 Add host decision to revert cotton RGO changes
 
+Gave Japan some missing techs
+
 	planned changes
 
 Maybe fix Japan's Philipines decision
@@ -43,5 +45,3 @@ Figure out how to remove pandemic events
 Give Germany 35 liferating? Might be too much work
 
 Replace John Cena general with Joe Biden(for the funni)
-
-Give Japan some of it's missing techs at the start

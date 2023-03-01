@@ -203,6 +203,7 @@ political_decisions = {
 #Captain's super secret decision(dont tell anyone you saw this)#
 
 	integrate_the_french = {
+		picture = zCaptain
 		potential = {
 			tag = AQT
 			exists = GER

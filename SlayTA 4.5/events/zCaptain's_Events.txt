@@ -1,0 +1,46 @@
+#If you create a country specific event make sure you add the tag to the list of tags to not get the broad event
+
+country_event = {
+	id = 10101069
+	picture = zCaptain
+	allow_multiple_instances = yes
+	trigger = {
+		AND = {
+			tag = AQT
+			accepted_culture = french
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Ligma Balls"
+	desc = "You fool! You idiot! You Buffoon! You fell for the oldest trick in the whole 			damn book! Did you really think I would add something like that into the game 			without saying anything, and NOT have a few contingencies planned? Oh and dont 		think you can pull something sneaky to exploit it, I've planned for that too."
+	immediate = {
+		remove_accepted_culture = french
+	}
+	option = {
+		name = "Kill yourself"		
+	}
+}
+country_event = {
+	id = 10101420
+	picture = zCaptain
+	allow_multiple_instances = yes
+	trigger = {
+		AND = {
+			tag = FRA
+			accepted_culture = aquitanian
+		}
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	title = "Ligma Balls"
+	desc = "You fool! You idiot! You Buffoon! You fell for the oldest trick in the whole 			damn book! Did you really think I would add something like that into the game 			without saying anything, and NOT have a few contingencies planned? Oh and dont 			think you can pull something sneaky to exploit it, I've planned for that too."
+	immediate = {
+		remove_accepted_culture = aquitanian
+	}
+	option = {
+		name = "Kill yourself"		
+	}
+}

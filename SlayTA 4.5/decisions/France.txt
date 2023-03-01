@@ -280,6 +280,7 @@ FRA_embrace_bretons = {
 #Captain's super secret decision(dont tell anyone you saw this)#
 
 	integrate_the_aquitanians = {
+		picture = zCaptain
 		potential = {
 			tag = FRA
 			exists = GER

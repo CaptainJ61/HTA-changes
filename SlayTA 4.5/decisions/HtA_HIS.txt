@@ -317,6 +317,7 @@ political_decisions = {
 	}
 
 	claim_the_med_islands = {
+		picture = zCaptain
 		potential = {
 			tag = HIS
 			NOT = { has_country_flag = med_islands_claimed }
