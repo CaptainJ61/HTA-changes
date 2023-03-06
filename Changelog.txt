@@ -34,11 +34,13 @@ Add host decision to revert cotton RGO changes
 
 Gave Japan some missing techs
 
+removed japanese-siberian strait
+
 	planned changes
 
 Maybe fix Japan's Philipines decision
 
-Should remove strait connecting Japan to easternmost Siberia
+clean up cultures
 
 Figure out how to remove pandemic events
 
