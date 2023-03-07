@@ -6,7 +6,9 @@ Changed north bengal back to a colony
 
 Replaced shogunate core on dutch treaty port in Japan with a normal Japanese core.
 
-Replaced some Cotton RGO's with Livestock to reduce over supply
+Replaced some Cotton RGO's with Livestock to reduce oversupply
+
+Replaced more Cotton RGO's in china/india to further reduce oversupply
 
 Changed capital of Bohemia, Netherlands, Poland, Russia, Finland, Norway, and Rome to 40 liferating instead of 35
 
@@ -18,9 +20,9 @@ Changed up the borders of manchuria
 
 Replaced 3 wool provinces in anatolia with iron, grain, and dye respectively(so it's not just one big wool fest)
 
-Give Vietnam it's pops back
+Give Vietnam a pop boost
 
-Got rid of those bug decisions
+Got rid of some bug decisions
 
 Replace Shogunate core on southern island whose name I cant remember (also gave island to Japan)
 
@@ -36,7 +38,11 @@ Gave Japan some missing techs
 
 removed japanese-siberian strait
 
-qinghai population reduced to match the rest of china
+qinghai population reduced to match the rest of china 
+
+Shan pops in Laos changed to Vietnamese
+
+Fixed accepted and primary cultures in North africa, Persia, Burma, Nanyue, Cham, Cambodia, Zanzibar, Laos, Java, Central asia, and Afghanistan.
 
 	planned changes
 
@@ -45,7 +51,3 @@ Maybe fix Japan's Philipines decision
 clean up cultures
 
 Figure out how to remove pandemic events
-
-Give Germany 35 liferating? Might be too much work
-
-Replace John Cena general with Joe Biden(for the funni)
