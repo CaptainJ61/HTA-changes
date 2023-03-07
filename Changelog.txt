@@ -36,6 +36,8 @@ Gave Japan some missing techs
 
 removed japanese-siberian strait
 
+qinghai population reduced to match the rest of china
+
 	planned changes
 
 Maybe fix Japan's Philipines decision
