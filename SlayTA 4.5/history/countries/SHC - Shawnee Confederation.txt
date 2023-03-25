@@ -41,6 +41,14 @@ upper_house = {
 
 foreign_weapons = yes_foreign_weapons
 admin_reform = yes_admin_reform
+finance_reform = finance_reform
+land_reform = yes_land_reform
+
 flintlock_rifles = 1
+no_standard = 1
+private_banks = 1
+mechanized_mining = 1
+water_wheel_power = 1
+
 
 oob = "SHC_oob.txt"
