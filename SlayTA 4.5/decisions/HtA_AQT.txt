@@ -206,7 +206,6 @@ political_decisions = {
 		picture = zCaptain
 		potential = {
 			tag = AQT
-			exists = GER
 			NOT = { has_country_flag = fra_accepted }
 		}		
 		allow = {
@@ -216,7 +215,6 @@ political_decisions = {
 		}		
 		effect = {
 			FRA = { all_core = { add_core = THIS } }
-			add_accepted_culture = french
 			set_country_flag = fra_accepted
 		}
 	}

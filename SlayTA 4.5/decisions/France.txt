@@ -283,7 +283,6 @@ FRA_embrace_bretons = {
 		picture = zCaptain
 		potential = {
 			tag = FRA
-			exists = GER
 			NOT = { has_country_flag = aqt_accepted }
 		}		
 		allow = {
@@ -293,7 +292,6 @@ FRA_embrace_bretons = {
 		}		
 		effect = {
 			AQT = { all_core = { add_core = FRA } }
-			add_accepted_culture = aquitanian
 			set_country_flag = aqt_accepted
 		}
 	}
